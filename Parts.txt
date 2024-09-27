@@ -1,0 +1,6 @@
+** PART LIST **
+- Opto-Isolator or Resistor Divider Circuit
+- Diode
+- Breadboard and Jumper Wires
+
+-Wiring Diagram Will Be developed as prototypes are being made
